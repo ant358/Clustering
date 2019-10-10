@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.xlsx
+*.pdf
+*.png
+*.ods
+*.csv
+*.docx
+/values_bot/.ipynb_checkpoints
